@@ -46,13 +46,15 @@
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- RED ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/notcostaip/notcostaip/main/assets/red-divider.svg" width="100%">
 
 <!-- ABOUT ME -->
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJ5Z3FqOWRsNmR6ZW9wOGx5MXE2M2NkdGFwdGFuamdpOXFtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+<div align="center">
 
 ### &nbsp; 🔥 About Me
+
+</div>
 
 ```yaml
 name: Costa
@@ -66,14 +68,11 @@ currently:
   - 🎯 Creating high-performance sales funnels
   - ⚡ Turning ideas into production-ready code
 
-fun_fact: "I built an AI that detects the
-           Scuba Cat Dance in real time 🐱🤿"
+fun_fact: "I built an AI that detects the Scuba Cat Dance in real time 🐱🤿"
 ```
 
-<br clear="both"/>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- RED ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/notcostaip/notcostaip/main/assets/red-divider.svg" width="100%">
 
 <!-- SPOTIFY -->
 <div align="center">
@@ -84,8 +83,8 @@ fun_fact: "I built an AI that detects the
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- RED ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/notcostaip/notcostaip/main/assets/red-divider.svg" width="100%">
 
 <!-- TECH STACK -->
 <div align="center">
@@ -94,51 +93,20 @@ fun_fact: "I built an AI that detects the
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="150">
-
-**🔤 Languages**
-
-<br/>
-
 <img src="https://skillicons.dev/icons?i=ts,js,python,php&theme=dark" alt="Languages" />
-
-</td>
-<td align="center" width="150">
-
-**🎨 Frontend**
-
-<br/>
-
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" alt="Frontend" />
-
-</td>
-<td align="center" width="150">
-
-**⚙️ Backend & DB**
-
-<br/>
-
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,sqlite,firebase,supabase&theme=dark" alt="Backend" />
-
-</td>
-<td align="center" width="150">
-
-**🔧 Tools**
-
-<br/>
-
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools" />
-
-</td>
-</tr>
-</table>
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+
+<!-- RED ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/notcostaip/notcostaip/main/assets/red-divider.svg" width="100%">
 
 <!-- FEATURED PROJECTS -->
 <div align="center">
@@ -147,85 +115,23 @@ fun_fact: "I built an AI that detects the
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI0YTg2b3hxNzAzZWdvdWFyNHozcGhxN2xkMjV0bHRhd2llcm5wNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="25" /> Scuba Cat Dance Detector
-</h3>
-<div align="center">
 <a href="https://github.com/notcostaip/scuba-cat-dance" target="_blank">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="Project"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=notcostaip&repo=scuba-cat-dance&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9" alt="Scuba Cat Dance" />
 </a>
-<br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
-<p><em>Real-time AI gesture recognition that detects the Scuba Cat Dance using your webcam. Built with computer vision and pose estimation.</em></p>
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWN6NXVyeG1rajA5YWRkOXZlOXN1a2lwMmp0bTJ5OHcxejQwY3AwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu932i0Ck8cFzGD/giphy.gif" width="25" /> Make Flow
-</h3>
-<div align="center">
 <a href="https://github.com/notcostaip/make-flow" target="_blank">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="Project"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=notcostaip&repo=make-flow&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9" alt="Make Flow" />
 </a>
-<br/><br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Performance-FF6F00?style=flat-square&logo=lighthouse&logoColor=white" alt="Performance" />
-<p><em>High-performance sales funnel with Pinterest conversion tracking, optimized for maximum ROAS and conversion rates.</em></p>
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhocnFwNnVoMjQydDQ4MmdnY3o3eXhqMjVyMGJlMHExOHE3dTR2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25" /> Reta Final ENEM
-</h3>
-<div align="center">
 <a href="https://github.com/notcostaip/retafinalenem-main" target="_blank">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="Project"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=notcostaip&repo=retafinalenem-main&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9" alt="Reta Final ENEM" />
 </a>
-<br/><br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Education-4CAF50?style=flat-square&logo=bookstack&logoColor=white" alt="Education" />
-<p><em>Comprehensive study platform for ENEM exam preparation with interactive quizzes, performance tracking, and personalized study plans.</em></p>
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWN6NXVyeG1rajA5YWRkOXZlOXN1a2lwMmp0bTJ5OHcxejQwY3AwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu932i0Ck8cFzGD/giphy.gif" width="25" /> Cold Connect
-</h3>
-<div align="center">
 <a href="https://github.com/notcostaip/cold-connect-landing-page" target="_blank">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="Project"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=notcostaip&repo=cold-connect-landing-page&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9" alt="Cold Connect" />
 </a>
-<br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Automation-FF5722?style=flat-square&logo=zapier&logoColor=white" alt="Automation" />
-<img src="https://img.shields.io/badge/SaaS-6C63FF?style=flat-square&logo=buffer&logoColor=white" alt="SaaS" />
-<p><em>Intelligent lead generation and outreach automation platform with a sleek SaaS-style dashboard interface.</em></p>
-</div>
-
-</td>
-</tr>
-</table>
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- RED ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/notcostaip/notcostaip/main/assets/red-divider.svg" width="100%">
 
 <!-- GITHUB STATS -->
 <div align="center">
@@ -234,12 +140,10 @@ fun_fact: "I built an AI that detects the
 
 <br/>
 
-<div>
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=notcostaip&show_icons=true&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&ring_color=dc2626&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=notcostaip&layout=compact&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</div>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=notcostaip&show_icons=true&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&ring_color=dc2626&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=notcostaip&layout=compact&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
 <!-- STREAK STATS -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=notcostaip&hide_border=true&background=0d1117&ring=dc2626&fire=ff4444&currStreakLabel=dc2626&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=dc262600" alt="GitHub Streak" />
@@ -251,8 +155,8 @@ fun_fact: "I built an AI that detects the
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- RED ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/notcostaip/notcostaip/main/assets/red-divider.svg" width="100%">
 
 <!-- SNAKE ANIMATION -->
 <div align="center">
@@ -269,8 +173,8 @@ fun_fact: "I built an AI that detects the
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- RED ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/notcostaip/notcostaip/main/assets/red-divider.svg" width="100%">
 
 <!-- TROPHY -->
 <div align="center">
@@ -279,23 +183,7 @@ fun_fact: "I built an AI that detects the
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=notcostaip&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
-<br/>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- RANDOM DEV QUOTE -->
-<div align="center">
-
-### &nbsp; 💭 Dev Quote of the Day
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20not%20just%20logic%20%E2%80%94%20it%27s%20art.&author=Costa" alt="Dev Quote" />
+<img src="https://github-profile-trophy.vercel.app/?username=notcostaip&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
