@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=100&lines=%F0%9F%94%A5+Building+the+future%2C+one+commit+at+a+time;%F0%9F%8E%93+Software+Engineering+%40+University+of+Bras%C3%ADlia;%F0%9F%9A%80+Full+Stack+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=100&lines=Building+the+future%2C+one+commit+at+a+time;Software+Engineering+%40+University+of+Bras%C3%ADlia;Full+Stack+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,6 +26,9 @@
   </a>
   <a href="https://twitter.com/notcostaip" target="_blank">
     <img src="https://img.shields.io/badge/X-DC2626?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://discordapp.com/users/xanaxml" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-DC2626?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://open.spotify.com/user/21x7sxdo4smzenz6gxml5zgdi" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-DC2626?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
@@ -52,7 +55,7 @@
 <!-- ABOUT ME -->
 <div align="center">
 
-### &nbsp; 🔥 About Me
+### &nbsp; About Me
 
 </div>
 
