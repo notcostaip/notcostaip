@@ -235,8 +235,8 @@ fun_fact: "I built an AI that detects the
 <br/>
 
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=notcostaip&show_icons=true&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&ring_color=dc2626&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcostaip&layout=compact&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=notcostaip&show_icons=true&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&ring_color=dc2626&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=notcostaip&layout=compact&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
