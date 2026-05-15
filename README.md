@@ -200,6 +200,6 @@ fun_fact: "I built an AI that detects the Scuba Cat Dance in real time 🐱🤿"
 <br/>
 
 <!-- CONNECT CTA -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=1000&color=DC2626&center=true&vCenter=true&repeat=true&width=435&lines=%E2%9C%89%EF%B8%8F+Let's+connect+and+build+something+epic!;%F0%9F%A4%9D+Open+to+collaborations+%26+opportunities;%F0%9F%92%AC+DM+me+on+any+social+above!" alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=1000&color=DC2626&center=true&vCenter=true&repeat=true&width=435&lines=Let's+connect+and+build+something+epic!;Open+to+collaborations+%26+opportunities;DM+me+on+any+social+above!" alt="Footer Typing" />
 
 </div>
