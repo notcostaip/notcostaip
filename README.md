@@ -21,7 +21,7 @@
   <a href="https://instagram.com/notcostaip" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-DC2626?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:pabloodacosta7@gmail.com">
+  <a href="mailto:pablohenrickpk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://twitter.com/notcostaip" target="_blank">
