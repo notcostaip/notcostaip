@@ -119,16 +119,16 @@ fun_fact: "I built an AI that detects the Scuba Cat Dance in real time 🐱🤿"
 <br/>
 
 <a href="https://github.com/notcostaip/scuba-cat-dance" target="_blank">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=notcostaip&repo=scuba-cat-dance&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9" alt="Scuba Cat Dance" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=notcostaip&repo=scuba-cat-dance&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&v=1" alt="Scuba Cat Dance" />
 </a>
 <a href="https://github.com/notcostaip/make-flow" target="_blank">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=notcostaip&repo=make-flow&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9" alt="Make Flow" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=notcostaip&repo=make-flow&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&v=1" alt="Make Flow" />
 </a>
 <a href="https://github.com/notcostaip/retafinalenem-main" target="_blank">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=notcostaip&repo=retafinalenem-main&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9" alt="Reta Final ENEM" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=notcostaip&repo=retafinalenem-main&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&v=1" alt="Reta Final ENEM" />
 </a>
 <a href="https://github.com/notcostaip/cold-connect-landing-page" target="_blank">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=notcostaip&repo=cold-connect-landing-page&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9" alt="Cold Connect" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=notcostaip&repo=cold-connect-landing-page&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&v=1" alt="Cold Connect" />
 </a>
 
 </div>
